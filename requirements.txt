@@ -1,0 +1,6 @@
+streamlit>=1.30.0,<2.0.0
+kerykeion>=5.0.0
+pyswisseph>=2.10.0
+geopy>=2.4.0
+timezonefinder>=6.0.0
+requests>=2.31.0
